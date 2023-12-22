@@ -1,7 +1,7 @@
 import React from 'react'
 import Sidebar from './components/Sidebar'
 import Dashboard from './components/Dashboard'
-import User from './components/user'
+import User from './components/User'
 import{BrowserRouter,Routes,Route} from 'react-router-dom'
 
 function App() {
